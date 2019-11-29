@@ -5,5 +5,5 @@ Git tracks changes of files.
 creating a new branch is quick AND simple.
 add merge(fix bug)
 add merge
-add something in dev
+add something in the dev
 
