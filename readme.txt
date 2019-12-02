@@ -1,2 +1,2 @@
-I have bugs,come to fix me!
+I have bugs.Fix me!
 
